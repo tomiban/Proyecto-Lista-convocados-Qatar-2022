@@ -1,0 +1,33 @@
+.fondoEncabezado {
+    background: url("fondoCabeza.jpg");
+    width: 1400px;
+    height: 200px;
+    border: 0px solid rgb(76, 209, 233);
+    padding: 50px;
+    margin: 0 auto;
+    text-align:center;
+
+  }
+
+  .botonRegistro {
+    width: 150px;
+    height: 30px;
+    text-size-adjust: 100px 15px;
+    vertical-align: text-bottom
+   
+  }
+
+  .botonera {
+    background-color: rgb(248, 216, 138);
+   
+  }
+
+  .btn btn-dark 4 {
+ margin right: 5px;
+ 
+    
+   
+  }
+    
+
+  
